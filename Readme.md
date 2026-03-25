@@ -18,7 +18,7 @@ The overall implementation idea is that we should reverse the collection_3 first
 
 Time complexity will be in O(n).
 
-## Running the unit test
+## Set up dependencies, running the unit test, and execute code
 
 Unit test is in the src/merge.test.ts
 ```
