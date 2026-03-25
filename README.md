@@ -20,7 +20,8 @@ Time complexity will be in O(n).
 
 ## Set up dependencies, running the unit test, and execute code
 
-Unit test is in the src/merge.test.ts
+Unit test is in the src/merge.test.ts.
+
 Execute the test by running commands.
 ```
 npm install
