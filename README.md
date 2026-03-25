@@ -1,6 +1,6 @@
 # Merge function with unit test
 
-This project implements a function for the question 10 of the pre-test Full-stack developer (intern) at Primo.
+This project implements a function for the question 10.
 
 ## Description of the function
 
